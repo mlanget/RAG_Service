@@ -1,0 +1,11 @@
+streamlit
+faiss-cpu
+langchain==0.3.25
+langchain-core==0.3.59
+langchain-community
+langchain-openai
+python-dotenv
+openai
+tiktoken
+PyPDF2
+pypdf
